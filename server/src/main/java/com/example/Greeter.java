@@ -15,7 +15,9 @@ public class Greeter {
 
   }
 
-  //TODO: Add javadoc comment
+  /**
+   * Info about this method doing something for package-info.java file.
+   */
   public abstract String greet(String someone) {
     return String.format("Hello, %s!", someone);
   }
