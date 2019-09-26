@@ -1,7 +1,8 @@
 
 /**
- * Domain classes
- */
+* This package has non null parameters and is documented.
+**/
+@ParametersAreNonnullByDefault
 package com.example;
 
 /**
