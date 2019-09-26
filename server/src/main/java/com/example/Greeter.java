@@ -1,8 +1,6 @@
 
 /**
  * Domain classes 
- * These classes contain the JAXB annotations.
- *
  * @since 1.0
  * @author jwhite
  * @version 1.1
@@ -23,8 +21,8 @@ public class Greeter {
 
   /**
    * Info about this method doing something for package-info.java file.
-   * @param someone
-   * @return string
+   * @param String someone
+   * @return String
    */
   public final String greet(final String someone) {
     return String.format("Hello, %s!", someone);
