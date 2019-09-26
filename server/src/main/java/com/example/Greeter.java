@@ -1,9 +1,6 @@
 
 /**
- * Domain classes 
- * @since 1.0
- * @author jwhite
- * @version 1.1
+ * Domain classes
  */
 package com.example;
 
@@ -21,7 +18,7 @@ public class Greeter {
 
   /**
    * Info about this method doing something for package-info.java file.
-   * @param String someone
+   * @param someone String
    * @return String
    */
   public final String greet(final String someone) {
